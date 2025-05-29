@@ -2,9 +2,10 @@
 
 int main(void)
 {
-	printf("FristApp ÇÁ·Î±×·¥\n");
-	printf("ÀÛ¼ºÀÚ: ÃµÁ¤¾Æ\n");
-	printf("¹öÀü: 1.0\n");
+	printf("Hello World\n");
+	printf("FristApp ï¿½ï¿½ï¿½Î±×·ï¿½\n");
+	printf("ï¿½Û¼ï¿½ï¿½ï¿½: Ãµï¿½ï¿½ï¿½ï¿½\n");
+	printf("ï¿½ï¿½ï¿½ï¿½: 1.0\n");
 
 	return 0;
 
